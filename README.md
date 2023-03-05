@@ -1,18 +1,19 @@
 <h1 align="center">Hello 👋, I'm Beknazar</h1>
-<h3 align="center">I am a passionate Front-End Developer from Bishkek, Kyrgyzstan</h3>
+<h3 align="center">I am a Front-End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beks2995&label=Profile%20views&color=0e75b6&style=flat" alt="beknazar" /> </p>
 
 - 🌱 I’m currently learning **React Native, NestJs**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, VueJs, ExtJs**
 
 - 📫 How to reach me **beks2992@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/beknazar-kashkaraliev-a781891a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beknazar linkedin" height="30" width="40" /></a>
+  <a href="https://t.me/beks2992" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="beknazar telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
