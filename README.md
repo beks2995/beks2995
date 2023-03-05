@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/beknazar-kashkaraliev-a781891a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beknazar linkedin" height="30" width="40" /></a>
-  <a href="https://t.me/beks2992" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="beknazar telegram" height="30" width="40" /></a>
+  <a href="https://t.me/beks2992" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="beknazar telegram" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
