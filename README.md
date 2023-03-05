@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Beknazar</h1>
-<h3 align="center">I am a Front-End Developer</h3>
+<h3 align="center">Frontend Web Developer, specializing on developing and maintaining responsive web applications using JavaScript/Typescript technologies and modern libraries (React). Possess working knowledge of graphic editor using Figma. I have worked within small to medium size teams in collaboration with backend developers, UI/UX designers and Project managers.![image](https://user-images.githubusercontent.com/52246823/222975944-eb301941-d736-43df-b9d6-19cc7fd5a096.png)
+</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beks2995&label=Profile%20views&color=0e75b6&style=flat" alt="beknazar" /> </p>
